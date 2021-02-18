@@ -1,0 +1,67 @@
+/* all custom css */
+h1 {
+  color: #012269;
+}
+
+.flag {
+  background-color: #012269;
+  width: 700px;
+  height: 400px;
+}
+
+.star-one {
+  color: #c80f2e;
+  font-size: 40px;
+  position: absolute;
+  top: 100px;
+  left: 520px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+}
+
+.star-two {
+  color: #c80f2e;
+  font-size: 40px;
+  position: absolute;
+  top: 180px;
+  left: 440px;
+  -webkit-text-stroke: 2px white;
+}
+
+.star-three {
+  color: #c80f2e;
+  font-size: 40px;
+  position: absolute;
+  top: 180px;
+  left: 600px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+}
+
+.star-four {
+  color: #c80f2e;
+  font-size: 40px;
+  position: absolute;
+  top: 350px;
+  left: 520px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+}
+
+.image1 {
+  width: 260px;
+  height: 170px;
+  position: absolute;
+  top:80px;
+
+}
+ button {
+ position:relative;
+ left: 250px;
+ padding:20px;
+ font-size:20px;
+ margin-top:15px;
+ background-color:red;
+ border-style:groove;
+ border-radius:5px;
+ }
